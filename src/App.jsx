@@ -3,7 +3,6 @@ import Layout from './components/Layout';
 import Home from './pages/Home';
 import Blog from './pages/Blog';
 import Contato from './pages/Contato';
-import Funcao from './pages/Funcao';
 import Conversor from './pages/conversor';
 
 function App() {
